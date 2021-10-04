@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abombaywala i.e. Ammar Bombaywala
 - 👀 I’m interested in Software Engineering and Full Stack Development
 - 🌱 I’m currently learning through Odin
-- 💞️ I’m looking to collaborate on Python, C and C++ Projects
+- 💞️ I’m looking to collaborate on Python, C, C++, C# Projects
 - Thank You
